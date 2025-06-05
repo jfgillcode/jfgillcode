@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jfgillcode
-- 👀 I’m interested in Javacript fullstack
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on ... (Coming soon)
+- 👀 I’m interested in Javacript fullstack and rust
 - 📫 jfgillcode@gmail.com
 
 <!---
