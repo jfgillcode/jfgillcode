@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jfgillcode
-- 👀 I’m interested in Javacript fullstack and rust
-- 📫 jfgillcode@gmail.com
+- 👀 I’m interested in C#, Rust, JavaScript and HackTheBox
+- 📫 jfgill@outlook.com
 
 <!---
 jfgillcode/jfgillcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
